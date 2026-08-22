@@ -26,4 +26,4 @@ latest_posts:
 
 I am a second-year PhD student in the [Computational Biology (CPCB)](http://www.compbio.cmu.edu/) program at Carnegie Mellon University, advised by Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/). My research interests are in healthcare agent systems and world models.
 
-Previously, I worked on applications of language models to genomics data in Prof. [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/index.html)'s lab. I received my B.S. in Data Science from Fudan University, where I worked on medical data analysis and few-shot learning in computer vision with Prof. [Yanwei Fu](http://yanweifu.github.io) and Prof. [Xinwei Sun](https://sunxinwei0625.github.io/sunxw.github.io/).
+Previously, I worked on mRNA design in Prof. [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/index.html)'s lab. I received my B.S. in Data Science from Fudan University, where I worked on medical image analysis and causal inference in computer vision with Prof. [Yanwei Fu](http://yanweifu.github.io) and Prof. [Xinwei Sun](https://sunxinwei0625.github.io/sunxw.github.io/).
