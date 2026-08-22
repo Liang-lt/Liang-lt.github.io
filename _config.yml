@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Litian Liang # the website title (if blank, full name will be used instead)
 first_name: Litian
 middle_name:
 last_name: Liang
@@ -72,7 +72,7 @@ al_folio:
     allow_remote_loader: false
   features:
     cv:
-      enabled: true
+      enabled: false # CV is served as a PDF, not rendered from _data/cv.yml
     distill:
       enabled: true
   compat:
