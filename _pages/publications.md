@@ -11,10 +11,6 @@ nav_order: 2
 
 See also my [Google Scholar profile](https://scholar.google.com/citations?user=vFt2dTIAAAAJ&hl=en).
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
 <div class="publications">
 
 {% bibliography %}
