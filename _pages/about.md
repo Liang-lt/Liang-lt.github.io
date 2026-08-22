@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Carnegie Mellon University</p>
-    <p>Pittsburgh, PA</p>
+  more_info: # caption under the photo (office address, etc.) — left empty on purpose
 
 selected_papers: false # publications live on the publications page, not the homepage
 social: true # includes social icons at the bottom of the page
