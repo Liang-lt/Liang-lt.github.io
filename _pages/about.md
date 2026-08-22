@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>
+subtitle: PhD student, <a href='http://www.compbio.cmu.edu/'>CPCB</a> @ <a href='https://www.cmu.edu/'>Carnegie Mellon University</a>
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>Carnegie Mellon University</p>
     <p>Pittsburgh, PA</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}" — enable after filling _bibliography/papers.bib
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Litian Liang, a PhD student at Carnegie Mellon University. <!-- TODO: fill in your program and advisor, e.g. "in the [program] advised by Prof. [name]" -->
+I am a second-year PhD student in the [Computational Biology (CPCB)](http://www.compbio.cmu.edu/) program at Carnegie Mellon University, advised by Prof. [Chenyan Xiong](https://www.cs.cmu.edu/~cx/).
 
-My current research focuses on large language models for medical applications. <!-- TODO: refine your research statement -->
+My research interests are in **healthcare agent systems** and **world models** — building agents that can reason and act reliably in clinical settings, and learning models of the environments they operate in.
 
-Previously, I received my Master's degree in Computational Biology from Carnegie Mellon University, where I worked on applications of LLMs to genomics data in Prof. [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/index.html)'s lab. I received my B.S. in Data Science from Fudan University, where I worked on medical data analysis and few-shot learning in computer vision with Prof. [Yanwei Fu](http://yanweifu.github.io) and Prof. [Xinwei Sun](https://sunxinwei0625.github.io/sunxw.github.io/).
+Previously, I worked on applications of language models to genomics data in Prof. [Carl Kingsford](https://kingsfordlab.cbd.cmu.edu/index.html)'s lab. I received my B.S. in Data Science from Fudan University, where I worked on medical data analysis and few-shot learning in computer vision with Prof. [Yanwei Fu](http://yanweifu.github.io) and Prof. [Xinwei Sun](https://sunxinwei0625.github.io/sunxw.github.io/).
